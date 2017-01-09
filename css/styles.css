@@ -1,0 +1,36 @@
+
+        body {
+            background-color: whitesmoke;
+            }
+        a {
+            color: #d62f2f;
+            }
+        ul {
+            margin: 0;
+            padding: 0;
+            }
+        table {
+            width: 100%;
+            }
+        li {
+            list-style: none;
+            display: inline-block;
+            padding: 10px 5px 5px 5px;
+            }
+
+        th, td {
+            Padding: 6px;
+            } 
+        th {
+            text-align: left;
+            background-color: #d62f2f;
+            }
+        tr:nth-child(even) {
+            background-color: #995858;
+            }
+        iframe  {border: 0;} 
+                {width: 50;} 
+                {height: 20;} 
+        div.content-area {background-color: dodgerblue} 
+
+        div.footer {background-color: #995858} 
